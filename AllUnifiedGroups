@@ -1,0 +1,1 @@
+Get-UnifiedGroup -resultsize unlimited | export-csv -path ".\AllGroups.csv"
